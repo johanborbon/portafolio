@@ -1,0 +1,42 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+.practicas{
+    margin: auto;
+    border-collapse: collapse;
+}
+.practicas tr{
+    border: 0.2em solid rgb(0, 0, 0);
+    padding: 2esm;
+    text-align: center;
+}
+.practicas td{
+    border: 0.2em solid rgb(0, 0, 0);
+    padding: 2em;
+    text-align: center;
+    background-color: rgb(105, 160, 98);
+}
+a{
+    color: rgb(0, 0, 0);
+}
+.pra{
+    margin: auto;
+    border-collapse: collapse;
+    border-radius: 5em;
+}
+.pra tr{
+    border: 0.2em solid rgb(0, 0, 0);
+    padding: 2em;
+    text-align: center;
+    border-radius: 10px;
+    border-radius: 5em;
+}
+.pra td{
+    border: 0.2em solid rgb(0, 0, 0);
+    padding: 2em;
+    text-align: center;
+    background-color: rgb(105, 160, 98);
+}

@@ -1,0 +1,21 @@
+.boton{
+    margin: auto;
+    border-collapse: collapse;
+}
+.boton tr{
+    border: 0.2em solid rgb(0, 0, 0);
+    padding: 2esm;
+    text-align: center;
+}
+.boton td{
+    border: 0.2em solid rgb(0, 0, 0);
+    padding: 0.8em;
+    text-align: center;
+    background-color: red;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+.boton h1{
+    text-align: center;
+}

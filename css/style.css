@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+.center-table{
+    margin: auto;
+    border-collapse: collapse;
+}
+.center-table tr{
+    border: 0.2em solid rgb(0, 0, 0);
+    padding: 2esm;
+    text-align: center;
+}
+.center-table td{
+    border: 0.2em solid rgb(0, 0, 0);
+    padding: 2em;
+    text-align: center;
+    background-color: rgb(105, 160, 98);
+}
+a{
+    color: rgb(0, 0, 0);
+}
